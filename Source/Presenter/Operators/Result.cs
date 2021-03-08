@@ -66,6 +66,8 @@ namespace Calculator.Source
                 return;
             }
 
+       
+
             if (oper == "S")
             {
                 StandartDeviation();
@@ -94,6 +96,12 @@ namespace Calculator.Source
                 var result = 0d;
                 switch (oper)
                 {
+                    case "^2":
+                        result = Math.Pow(n, 2);
+                        break;
+                    case "sqrt":
+                        result = Math.Sqrt(n);
+                        break;
                     case "+":
                         result = n + num;
                         break;

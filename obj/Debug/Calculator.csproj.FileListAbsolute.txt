@@ -18,3 +18,13 @@ C:\somethihg\калькулятор\Calc-master\Calc-master\obj\Debug\Calculator
 C:\somethihg\калькулятор\Calc-master\Calc-master\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\somethihg\калькулятор\Calc-master\Calc-master\obj\Debug\Calculator.exe
 C:\somethihg\калькулятор\Calc-master\Calc-master\obj\Debug\Calculator.pdb
+C:\somethihg\Технологии программирования\calc\bin\Debug\Calculator.exe.config
+C:\somethihg\Технологии программирования\calc\bin\Debug\Calculator.exe
+C:\somethihg\Технологии программирования\calc\bin\Debug\Calculator.pdb
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.Calc.resources
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.Properties.Resources.resources
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.exe
+C:\somethihg\Технологии программирования\calc\obj\Debug\Calculator.pdb

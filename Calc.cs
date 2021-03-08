@@ -183,5 +183,15 @@ namespace Calculator
         {
             presenter.ImportAction();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            presenter.AddOperator(sender as Button);
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            presenter.AddOperator(sender as Button);
+        }
     }
 }
